@@ -9837,8 +9837,9 @@
 	content: "\e0db";
 }
 .font-weight-450{
-	font-weight: 475 ;
+	font-weight: 500 ;
 	font-size: 22px;
-	backdrop-filter: blur(4px);
-	border-radius: 15%;
+	backdrop-filter: blur(5px);
+	/* border-radius: 15%; */
+	margin-left: 10%;
 }
